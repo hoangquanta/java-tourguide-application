@@ -1,0 +1,42 @@
+"ATM Hoàn Kiếm", "25 phố Lý Thường Kiệt, Phường Phan Chu Trinh, Quận Hoàn Kiếm, Hà Nội", 21.0217558,105.8559817
+"ATM Đinh Tiên Hoàng", "7 Đinh Tiên Hoàng, Quận Hoàn Kiếm, Hà Nội" , 21.0319681,105.8503201
+"ATM Hội sở", "57 Lý Thường Kiệt, Quận Hoàn Kiếm, Hà Nội", 21.0237307,105.8460968
+"ATM Nam Hà Nội", "236 Lê Thanh Nghị, Quận Hai Bà Trưng, Hà Nội", 21.00202,105.8404923
+"ATM Hai Bà Trưng","300-302 Trần Khát Chân, Quận Hai Bà Trưng, Hà Nội", 21.0083989,105.8424435
+"ATM Lê Ngọc Hân", "44 Lê Ngọc Hân, Quận Hai Bà Trưng, Hà Nội", 21.0160284,105.8529619
+"ATM Thăng Long", "129-131 Hoàng Quốc Việt, Quận Cầu Giấy, Hà Nội", 21.04646,105.7840913
+"ATM Phạm Hùng", "Tòa nhà FPT Phạm Hùng, Quận Cầu Giấy, Hà Nội", 21.030852,105.7806293
+"ATM Khâm Thiên","158 Khâm Thiên, Quận Đống Đa, Hà Nội", 21.0177285,105.8374322
+
+
+"Bệnh viện Bạch Mai", "78 – Đường Giải Phóng – Phương Mai – Đống Đa – Hà Nội", 20.9954857,105.8445753
+"Bệnh Viện Hữu Nghị", "Số 1 – Trần Khánh Dư – Quận Hai Bà Trưng – Hà Nội", 21.0154614,105.857414
+"Bệnh Viện E, Hà Nội","87 – Trần Cung – Nghĩa Tân – Cầu Giấy – Hà Nội", 21.0494995,105.7985139
+"Viện Răng Hàm Mặt", "40B – Tràng Thi – Hoàn Kiếm – Hà Nội", 21.0275153,105.8443653
+"Bệnh Viện Tai Mũi Họng Trung Ương", "78 – Đường Giải Phóng – Quận Đống Đa – Hà Nội", 20.9996578,105.8384244
+"Bệnh Viện Mắt Trung Ương", "85 – Phố Bà Triệu – Quận Hai Bà Trưng – Hà Nội", 21.0174613,105.8473821
+"Viện Y Học Cổ Truyền Trung Ương", "29 – Phố Nguyễn Bỉnh Khiêm – Quận Hai Bà Trưng – Hà Nội", 21.0160865,105.8464341
+"Bệnh Viện Nội Tiết", "80 – Thái Thịnh II – Thịnh Quang – Đống Đa – Hà Nội", 21.012304,105.8128827
+"Bệnh Viện Việt Đức", "8 – Phố Phủ Doãn – Quận Hoàn Kiếm – Hà Nội", 21.0123037,105.8063166
+"Bệnh Viện Nhi Trung Ương", "18/879 – Đường La Thành – Quận Đống Đa – Hà Nội", 21.0260951,105.8080656
+
+"The Queen Hotel & Spa", "67 Thuốc Bắc, Hàng Bồ, Hàng Bồ, Quận Hoàn Kiếm, Hà Nội, Việt Nam", 21.0346909,105.8460032
+"Hanoi Nostalgia Hotel & Spa", "13-15 Luong Ngoc Quyen, Hang Buom, Hoan Kiem, Hàng Buồm, Quận Hoàn Kiếm, Hà Nội, Việt Nam", 21.034721,105.8508375
+"Church Legend Hotel Hanoi", "46 Ấu Triệu, Phường Hàng Trống, Quận Hoàn Kiếm, Hà Nội, Việt Nam", 21.0285972,105.8461626
+"Little Hanoi Diamond Hotel", "11 Bát Đàn, Quận Hoàn Kiếm, Hàng Bồ, Quận Hoàn Kiếm, Hà Nội, Việt Nam", 21.0337023,105.8454016
+"Flamingo Dai Lai Resort", "Thôn Ngọc Quang, Xã Ngọc Thanh, Vĩnh Phúc, Phúc Yên, Hà Nội, Việt Nam", 21.033702,105.8388355
+"Hanoi Zesty Hotel", "20 Hàng Cân, Hàng Đào, Quận Hoàn Kiếm, Hà Nội, Việt Nam", 21.0348844,105.8473259
+"Bluebell Hotel", "41 Ngõ Huyện, Phường Hàng Trống, Quận Hoàn Kiếm, Hà Nội, Việt Nam", 21.029126,105.8462123
+
+"Tuyến 01", "BX Gia Lâm - BX Yên Nghĩa", 21.0458403,105.8765538
+ "Tuyến 02", "Bác cổ - BX Yên Nghĩa", 20.949808,105.7452133
+ "Tuyến 03A", "BX Giáp Bát - BX Gia Lâm", 20.9802148,105.8392657
+ "Tuyến 03B", "Bx Giáp Bát - Vincom - Phúc Lợi", 21.0448543,105.9236868
+ "Tuyến 04", "Long Biên - BX Nước Ngầm", 20.9651144,105.8405745
+ "Tuyến 05", "Linh Đàm - Phú Diễn", 20.9714845,105.8278558
+ "Tuyến 06", "BX. Giáp Bát - Phú Minh (Phú Xuyên)", 20.9802148,105.8392657
+ "Tuyến 07", "Cầu Giấy - Nội Bài", 20.9871706,105.8252897
+ "Tuyến 08", "Long Biên - Đông Mỹ", 20.9154469,105.8746726
+
+
+
