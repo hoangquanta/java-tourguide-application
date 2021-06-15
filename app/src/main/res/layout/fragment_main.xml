@@ -26,7 +26,7 @@
         android:layout_height="match_parent"
         android:numColumns="2"
         android:layout_margin="@dimen/fragment_main_option_margin"
-        android:verticalSpacing="30dp"
+        android:verticalSpacing="100px"
         android:stretchMode="columnWidth"
         />
 </LinearLayout>
