@@ -6,4 +6,5 @@
     <dimen name="textsize_title">25sp</dimen>
     <dimen name="textsize_sub_title">15sp</dimen>
     <dimen name="textsize_normal">12sp</dimen>
+    <dimen name="grid_vertical_spacing">30dp</dimen>
 </resources>
