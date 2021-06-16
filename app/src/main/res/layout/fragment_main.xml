@@ -2,31 +2,54 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:layout_gravity="center"
-        android:layout_marginVertical="@dimen/fragment_main_image_vertical_margin">
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="@dimen/fragment_main_image_height"
-            android:src="@drawable/vietnam"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/main_location"
-            android:textSize="@dimen/textsize_title"
-            android:layout_gravity="center"/>
-    </LinearLayout>
-
-    <GridView
-        android:id="@+id/options_gridview"
+    <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:numColumns="2"
-        android:layout_margin="@dimen/fragment_main_option_margin"
-        android:verticalSpacing="@dimen/grid_vertical_spacing"
-        android:stretchMode="columnWidth"
-        />
+        android:layout_height="0dp"
+        android:layout_weight="0.1"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.2"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:src="@drawable/vietnam"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:textSize="@dimen/textsize_title"
+                android:text="@string/main_location"/>
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.1"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5">
+        <GridView
+            android:id="@+id/options_gridview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:numColumns="2"
+            android:layout_margin="@dimen/fragment_main_option_margin"
+            android:verticalSpacing="@dimen/grid_vertical_spacing"
+            android:stretchMode="columnWidth"
+            android:scrollbars="none"
+            />
+    </RelativeLayout>
+
+
+
 </LinearLayout>
